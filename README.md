@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kg6ian, Joyce
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning how to catch up with my two daughters in coding
-- 💞️ I’m looking to collaborate on company internal projects for now
 - 📫 How to reach me: cdint.com
 
 <!---
